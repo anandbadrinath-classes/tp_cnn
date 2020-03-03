@@ -8,4 +8,4 @@ docker run -it --rm \
   --gpus all \
   -e LD_LIBRARY_PATH=/usr/local/cuda/lib64 \
   -u=1000 \
-  tp_cnn bash
+  <nom>_tp_cnn bash
